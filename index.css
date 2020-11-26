@@ -396,7 +396,7 @@ blockquote::after{
     color: #fff;
     padding: 12px;
 }
-.fa-heart-o{
+.fa-copyright{
     margin: 3px;
-    color: red;
+    color: white;
 }
